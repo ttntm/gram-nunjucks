@@ -34,7 +34,6 @@
 
 [
 	"case"
-	"default"
 	"else"
 	"elif"
 	"elseif"
